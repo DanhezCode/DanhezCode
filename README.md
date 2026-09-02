@@ -1,62 +1,19 @@
 # DanhezCode
 
-Full-stack developer focused on TypeScript, tooling, and the systems around software development.
+I'm Daniel Hernández Ochoa.
 
-I like building things that make other things simpler.
+A huge thanks to the open source community and free education for making knowledge accessible to everyone.
 
-## What I'm building
+As a way of giving back, I've created [**Opinionated TS**](https://github.com/opinionated-ts) around the way I believe TypeScript should be developed, with the hope that it can eventually become **a way the community prefers to build with TypeScript**.
 
-I'm gradually building an ecosystem around **TypeScript development, developer tooling, and AI-assisted software development**.
+All [**Opinionated TS**](https://github.com/opinionated-ts/) projects are open source, open to change, and built with the goal of becoming something **by the community and for the community**.
 
-The projects are intentionally connected rather than being a collection of unrelated experiments.
+I'm ready to do something many people don't like doing:
 
-The goal isn't to build a framework for everything.
+> **Accept criticism.**
 
-It's to explore how these pieces can fit together while keeping the underlying projects **simple, fast, portable, and maintainable**.
+## More
 
-### Projects
-
-[**Opinionated TS**](https://github.com/opinionated-ts) - A collection of projects exploring a consistent TypeScript development environment.
-
-* [`config`](https://github.com/opinionated-ts/config) — shared development configuration and tooling.
-* [`template`](https://github.com/opinionated-ts/template) — a starting point for TypeScript projects.
-* [`ai-tools`](https://github.com/opinionated-ts/ai-tools) — tooling, skills, and workflows for AI-assisted development.
-* [`ai-spec`](https://github.com/opinionated-ts/ai-spec) — an exploration of common conventions and specifications for AI-assisted software development.
-* [`vite-plugin-preact-prefresh`](https://github.com/opinionated-ts/vite-plugin-preact-prefresh) — Preact refresh tooling for Vite.
-
-#### Other work
-
-I also maintain smaller projects, experiments, and reproductions around the tools I use.
-
-Some of these eventually become reusable projects; others are simply a way to understand a problem better.
-
-## How I work
-
-I tend to work iteratively.
-
-I prefer to build something, use it, find where the abstraction breaks, and improve it rather than trying to design everything perfectly beforehand.
-
-That often means projects change quite a bit while I'm figuring out what the right abstraction actually is.
-
-A few principles tend to stay consistent:
-
-* **Performance first**
-* **Simplicity over unnecessary abstraction**
-* **Consistency across projects**
-* **Automation where it removes repetitive work**
-* **Standards where they improve interoperability**
-* **Small, composable tools over large all-in-one systems**
-
-I'm particularly interested in the parts of software development that sit underneath the application itself: the tooling, conventions, workflows, and systems that make the application easier to build.
-
-## What I'm interested in
-
-Currently, most of my attention is around:
-
-**TypeScript** - **Bun** - **developer tooling** - **AI coding agents** - **agent skills** - **interoperability** - **build systems** - **CI/CD** - **open specifications**
-
-I'm interested in where these areas are heading and, more importantly, in figuring out what should actually be standardized versus what should remain implementation-specific.
-
-> Most of this is a work in progress.
->
-> I'm still figuring out what the ecosystem should look like.
+* 👤 [About me](https://github.com/DanhezCode/DanhezCode/issues?q=is%3Aissue%20state%3Aopen%20label%3Aabout-me)
+* 📢 [Announcements](https://github.com/DanhezCode/DanhezCode/issues?q=is%3Aissue%20state%3Aopen%20label%3Aannouncements)
+* ✍️ [Blog](https://github.com/DanhezCode/DanhezCode/issues?q=is%3Aissue%20state%3Aopen%20label%3Ablog)
