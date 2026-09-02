@@ -14,7 +14,7 @@ I'm ready to do something many people don't like doing:
 
 ## More
 
-* 📦 [Projects](https://github.com/DanhezCode/DanhezCode/issues?q=is%3Aissue%20state%3Aopen%20label%3Aprojects)
+* 📦 [Projects](https://github.com/DanhezCode/DanhezCode/issues/2)
 * 👤 [About me](https://github.com/DanhezCode/DanhezCode/issues?q=is%3Aissue%20state%3Aopen%20label%3Aabout-me)
 * 📢 [Announcements](https://github.com/DanhezCode/DanhezCode/issues?q=is%3Aissue%20state%3Aopen%20label%3Aannouncements)
 * ✍️ [Blog](https://github.com/DanhezCode/DanhezCode/issues?q=is%3Aissue%20state%3Aopen%20label%3Ablog)
